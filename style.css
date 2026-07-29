@@ -1,0 +1,19 @@
+header{
+    background-color: rgba(241, 184, 246, 0.483);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding: 20px;
+}
+section{
+    background-color:rgba(125, 136, 236, 0.434);
+
+
+}
+footer{
+    background-color: rgba(190, 231, 237, 0.962);
+    padding: 15px;
+}
+body{
+    background-color: rgb(246, 242, 244);
+   margin: 10px;
+}
